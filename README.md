@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @razamumtaz
-- 👀 I’m interested in Web development,Data Analytics and in Data Science
+- 👀 I’m interested in Web development,Data Analytics and Data Science
 - 🌱 I’m currently learning Power Bi,Microsoft Azure
 - 💞️ I’m looking to collaborate on real time projects on Power Bi.
 - 📫 How to reach me 
