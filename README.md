@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @razamumtaz
-- 👀 I’m interested in Web development,Data Analytics and Data Science
-- 🌱 I’m currently learning Power Bi,Microsoft Azure
-- 💞️ I’m looking to collaborate on real time projects on Power Bi.
+- 👀 I’m interested in Web development,Web Desiging
+- 💞️ I’m looking to collaborate on real time projects on technologies for frontend & backend Web development.
 - 📫 How to reach me 
 
 Email: raza.mumtaz@yahoo.com
