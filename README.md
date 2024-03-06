@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @razamumtaz
-- 👀 I’m interested in Web development,Web Desiging
+- 👀 I’m interested in Software development,Web Development,Data Science.
 - 💞️ I’m looking to collaborate on real time projects on technologies for frontend & backend Web development.
 - 📫 How to reach me 
 
